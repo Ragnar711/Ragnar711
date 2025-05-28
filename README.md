@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ragnar711" alt="ragnar711" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ragnar711.vercel.app/](https://portfolio-ragnar711.vercel.app/)
-
 - 📫 How to reach me **azizbechaib711@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/medazizbechaib](www.linkedin.com/in/medazizbechaib)
