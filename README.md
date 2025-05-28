@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🌐 Check out my portfolio: [azizbechaib.vercel.app](https://azizbechaib.vercel.app)
+- 🌐 Check out my portfolio: [azizbechaib.vercel.app](https://portfolio-blond-psi-11.vercel.app/)
 - 📫 Reach me at: **azizbechaib711@gmail.com**
 - 📄 Learn more about my experiences: [LinkedIn](https://www.linkedin.com/in/medazizbechaib)
 
